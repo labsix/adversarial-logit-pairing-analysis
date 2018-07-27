@@ -11,6 +11,8 @@ threat model considered in the original paper), we can make the classifier
 accuracy 0.1% and generate targeted adversarial examples (with randomly chosen
 target labels) with 98.6% success rate using the provided code and models.
 
+See our writeup [here](https://arxiv.org/abs/1807.10272) for our analysis, including visualizations of the loss landscape induced by Adversarial Logit Pairing.
+
 ## Pictures
 
 Obligatory pictures of adversarial examples (with randomly chosen target
