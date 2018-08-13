@@ -26,7 +26,7 @@ Download and untar the [ALP-trained
 ResNet-v2-50](http://download.tensorflow.org/models/adversarial_logit_pairing/imagenet64_alp025_2018_06_26.ckpt.tar.gz)
 model into the root of the repository.
 
-## [robustml](https://github.com/robust-ml/robustml) evaluation
+## [RobustML](https://github.com/robust-ml/robustml) evaluation
 
 Run with:
 
